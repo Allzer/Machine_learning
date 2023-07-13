@@ -8,6 +8,9 @@
 Ссылка на датасет для полиномиальной регрессии: https://drive.google.com/drive/shared-with-me
 
 Ссылки на видео, которые я смотрел: 
+
 https://www.youtube.com/watch?v=LDL0aHekTcQ
+
 https://www.youtube.com/watch?v=8sVfWyQrMiM&t=320s
+
 https://www.youtube.com/watch?v=hhAbdfQ6k00&t=863s
